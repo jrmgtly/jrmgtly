@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrmgtly
 - 👀 I’m interested in learning and creating new projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and pursuing a Software Engineering Career (4th Semester)
 - 💞️ I’m looking to collaborate on any project that will help me leverage my skills
 - 📫 How to reach me: https://www.linkedin.com/in/jrmgtly/
 - 😄 Pronouns: He/Him/His
